@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data
+data/processed/*.parquet
+models/
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.log
+.virtual_documents
+
+Data Dictionary.txt
+
