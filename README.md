@@ -1,5 +1,3 @@
-Of course! Here is the content formatted as a README.md file. You can copy and paste this directly into your file.
-
 Financial Fraud Detection
 A project to build and evaluate a machine learning model for detecting financial fraud.
 
@@ -74,3 +72,4 @@ For interactive exploration and model development, you can use the provided Jupy
 notebooks/01_eda.ipynb: Contains a quick exploratory data analysis (EDA) of the dataset.
 
 notebooks/02_modeling.ipynb: Provides an alternative, notebook-based environment to run the model training process.
+
